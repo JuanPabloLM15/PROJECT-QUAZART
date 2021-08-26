@@ -6,8 +6,10 @@ Hecha un vistazo a la wiki del juego podrás encontrar la sinopsis del juego y s
 importantes al juego te informes de la estructura del codigo, clases, imagenes y  todo para que puedas hacer uso de este.
 Muchas gracias por apoyarnos
 
-   ![imagen](https://user-images.githubusercontent.com/89097586/130974848-663b19aa-8576-4009-a7c0-612d417d08c1.png)
+   ![imagen](https://user-images.githubusercontent.com/89097586/130974848-663b19aa-8576-4009-a7c0-612d417d08c1.png) <src>
    https://github.com/JuanPabloLM15/PROJECT-QUAZART/wiki/PROJECT-QUAZART---WIKI
+   
+   <a href="https://developer.mozilla.org/"><img src="mdn-logo-sm.png" alt="MDN"></a>
 
 ## **ERRORES DEL INSTALABLE:**
 
