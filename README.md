@@ -1,11 +1,11 @@
 # PROJECT-QUAZART
 ERRORES DEL INSTALABLE:
 
-En caso de tener algun error con el instalable o no poder abrirlo comprobar las siguientes viñetas:
+En caso de tener algun error con el instalable o no poder abrirlo comprobar las siguientes viñetas o problemas con carga de sinematicas:
 
 1. Abrir la ubicacion del archivo del exe en el escritorio, click derecho en este, abrir con, copian el repetorio
 de la carpeta fuente y lo abren con la subcarpeta python que esta en ese carpeta, esta version de python puede
-solucionar muchos de los bugs y problemas pues pygame tiene algunos inconvenientes con algunas versiones.
+solucionar muchos de los bugs y problemas pues pygame tiene algunos inconvenientes con algunas versiones de python.
 
 ![imagen](https://user-images.githubusercontent.com/89097586/130971149-f64e2ea5-17a7-4340-a7d9-80f43644d692.png)
 
