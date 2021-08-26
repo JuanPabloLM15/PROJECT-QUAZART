@@ -2,13 +2,17 @@
 
 ## **REVISAR LA SUBSECCION WIKI PARA OBTENER MÁS INFORMACION SOBRE EL JUEGO**
 
+Hecha un vistazo a la wiki del juego podrás encontrar la sinopsis del juego y si te interesa un poco mas o hacer modificaciones
+importantes al juego te informes de la estructura del codigo, clases, imagenes y  todo para que puedas hacer uso de este.
+Muchas gracias por apoyarnos
+
    ![imagen](https://user-images.githubusercontent.com/89097586/130974848-663b19aa-8576-4009-a7c0-612d417d08c1.png)
 
 ## **ERRORES DEL INSTALABLE:**
 
 En caso de tener algun error con el instalable o no poder abrirlo comprobar las siguientes viñetas o problemas con carga de cinematicas:
 
-SE RECOMIENDA USAR LA VERSION DE PYTHON DE LA CARPETA DE INSTALACION
+**SE RECOMIENDA USAR LA VERSION DE PYTHON DE LA CARPETA DE INSTALACION**
 
 1. Abrir la ubicacion del archivo del exe en el escritorio, click derecho en este, abrir con, copian el repetorio
 de la carpeta fuente y lo abren con la subcarpeta python que esta en esa carpeta, esta version de python puede
