@@ -2,7 +2,10 @@
 
 REVISAR LA SUBSECCION WIKI PARA OBTENER MÁS INFORMACION SOBRE EL JUEGO
 
-![imagen](https://user-images.githubusercontent.com/89097586/130974848-663b19aa-8576-4009-a7c0-612d417d08c1.png)
+                         ![imagen](https://user-images.githubusercontent.com/89097586/130974848-663b19aa-8576-4009-a7c0-612d417d08c1.png)
+
+
+
 
 ERRORES DEL INSTALABLE:
 
