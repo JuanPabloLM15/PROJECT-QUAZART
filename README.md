@@ -4,7 +4,7 @@
 ## **REVISAR LA SUBSECCION WIKI PARA OBTENER MÁS INFORMACION SOBRE EL JUEGO**
 
 
-Hecha un vistazo a la wiki del juego dando click en la imagen de abajo, podrás encontrar la sinopsis del juego y si te interesa un poco más hacer modificaciones importantes al juego te informes de la estructura del codigo, clases, imagenes y  todo para que puedas hacer uso de este, muchas gracias por apoyarnos.
+<p align="justify">Hecha un vistazo a la wiki del juego dando click en la imagen de abajo, podrás encontrar la sinopsis del juego y si te interesa un poco más hacer modificaciones importantes al juego te informes de la estructura del codigo, clases, imagenes y  todo para que puedas hacer uso de este, muchas gracias por apoyarnos.</p>
 
 
 <p align="center"><a href="https://github.com/JuanPabloLM15/PROJECT-QUAZART/wiki/PROJECT-QUAZART---WIKI"><img src="https://user-images.githubusercontent.com/89097586/130974848-663b19aa-8576-4009-a7c0-612d417d08c1.png" alt="MDN"></a></p>
@@ -15,9 +15,9 @@ En caso de tener algun error con el instalable o no poder abrirlo comprobar las 
 
 **SE RECOMIENDA USAR LA VERSION DE PYTHON DE LA CARPETA DE INSTALACION**
 
-1. Abrir la ubicacion del archivo del exe en el escritorio, click derecho en este, abrir con, copian el repetorio
+<p align="justify">1. Abrir la ubicacion del archivo del exe en el escritorio, click derecho en este, abrir con, copian el repetorio
 de la carpeta fuente y lo abren con la subcarpeta python que esta en esa carpeta, esta version de python puede
-solucionar muchos de los bugs y problemas pues pygame tiene algunos inconvenientes con algunas versiones de python.
+solucionar muchos de los bugs y problemas pues pygame tiene algunos inconvenientes con algunas versiones de python.</p>
 
 ![imagen](https://user-images.githubusercontent.com/89097586/130971149-f64e2ea5-17a7-4340-a7d9-80f43644d692.png)
 
@@ -59,5 +59,5 @@ Finalmente le das abrir se cerrara la ventana y ya podras darle doble click al a
 
 
 
-2. En caso de encontrar cualquier otro bug comunicarse a jluengas@unal.edu.co con asunto BUG INSTALABLE para una
-pronta respuesta.
+<p align="justify" >2. En caso de encontrar cualquier otro bug comunicarse a jluengas@unal.edu.co con asunto BUG INSTALABLE para una
+pronta respuesta.</p>
