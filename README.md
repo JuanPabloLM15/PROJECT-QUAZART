@@ -2,6 +2,7 @@
 
 ## **REVISAR LA SUBSECCION WIKI PARA OBTENER MÁS INFORMACION SOBRE EL JUEGO**
 
+<p style=”text-align: justify;”>
 Hecha un vistazo a la wiki del juego dando click en la imagen de abajo, podrás encontrar la sinopsis del juego y si te interesa un poco más hacer modificaciones
 importantes al juego te informes de la estructura del codigo, clases, imagenes y  todo para que puedas hacer uso de este, muchas gracias por apoyarnos. 
 
