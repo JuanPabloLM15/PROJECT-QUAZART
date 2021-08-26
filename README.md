@@ -7,6 +7,7 @@ importantes al juego te informes de la estructura del codigo, clases, imagenes y
 Muchas gracias por apoyarnos
 
    ![imagen](https://user-images.githubusercontent.com/89097586/130974848-663b19aa-8576-4009-a7c0-612d417d08c1.png)
+   https://github.com/JuanPabloLM15/PROJECT-QUAZART/wiki/PROJECT-QUAZART---WIKI
 
 ## **ERRORES DEL INSTALABLE:**
 
