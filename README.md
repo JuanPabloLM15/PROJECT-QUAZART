@@ -1,7 +1,7 @@
 # PROJECT-QUAZART
 ERRORES DEL INSTALABLE:
 
-En caso de tener algun error con el instalable o no poder abrirlo comprobar las siguientes viñetas o problemas con carga de sinematicas:
+En caso de tener algun error con el instalable o no poder abrirlo comprobar las siguientes viñetas o problemas con carga de cinematicas:
 
 1. Abrir la ubicacion del archivo del exe en el escritorio, click derecho en este, abrir con, copian el repetorio
 de la carpeta fuente y lo abren con la subcarpeta python que esta en ese carpeta, esta version de python puede
