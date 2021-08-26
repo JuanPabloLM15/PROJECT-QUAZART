@@ -61,4 +61,3 @@ Finalmente le das abrir se cerrara la ventana y ya podras darle doble click al a
 
 2. En caso de encontrar cualquier otro bug comunicarse a jluengas@unal.edu.co con asunto BUG INSTALABLE para una
 pronta respuesta.
-<p>
