@@ -4,7 +4,8 @@
 
 Hecha un vistazo a la wiki del juego podrás encontrar la sinopsis del juego y si te interesa un poco más hacer modificaciones
 importantes al juego te informes de la estructura del codigo, clases, imagenes y  todo para que puedas hacer uso de este.
-Muchas gracias por apoyarnos. **(click en la imagen para ir a la wiki)**
+Muchas gracias por apoyarnos. 
+**(click en la imagen para ir a la wiki)**
    
    <a href="https://github.com/JuanPabloLM15/PROJECT-QUAZART/wiki/PROJECT-QUAZART---WIKI"><img src="https://user-images.githubusercontent.com/89097586/130974848-663b19aa-8576-4009-a7c0-612d417d08c1.png" alt="MDN"></a>
 
