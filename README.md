@@ -9,7 +9,7 @@
 
 <p align="center"><a href="https://github.com/JuanPabloLM15/PROJECT-QUAZART/wiki/PROJECT-QUAZART---WIKI"><img src="https://user-images.githubusercontent.com/89097586/130974848-663b19aa-8576-4009-a7c0-612d417d08c1.png" alt="MDN"></a></p>
 
-**SE RECOMIENDA USAR LA VERSION DE PYTHON DE LA CARPETA DE INSTALACION**
+**SE RECOMIENDA USAR LA VERSION DE PYTHON DEL PROCESO DE INSTALACION**
 
 
 <p align="justify" >En caso de encontrar cualquier otro bug comunicarse a jluengas@unal.edu.co con asunto BUG PQ para una
