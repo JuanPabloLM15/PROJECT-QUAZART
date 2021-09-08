@@ -12,5 +12,5 @@
 **SE RECOMIENDA USAR LA VERSION DE PYTHON DE LA CARPETA DE INSTALACION**
 
 
-<p align="justify" >En caso de encontrar cualquier otro bug comunicarse a jluengas@unal.edu.co con asunto BUG INSTALABLE para una
+<p align="justify" >En caso de encontrar cualquier otro bug comunicarse a jluengas@unal.edu.co con asunto BUG PQ para una
 pronta respuesta.</p>
